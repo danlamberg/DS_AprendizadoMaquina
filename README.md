@@ -8,7 +8,7 @@ RM: 13135759
 
 TURMA: Data Science - Osório Sala 404 - QUA - 19:00 - 21:40
 
-Os dados foram extraídos do site do Kaggle: [Desempenho dos alunos nos exames] [https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams?select=exams.csv]
+Os dados foram extraídos do site do Kaggle: [Desempenho dos alunos nos exames] (https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams?select=exams.csv)
 
 # Especificações Técnicas
 
